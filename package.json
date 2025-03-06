@@ -1,7 +1,7 @@
 {
   "name": "homework-project-1",
   "version": "1.0.0",
-  "description": "",
+  "description": "homework",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
